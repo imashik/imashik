@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imashik13
+- 👋 Hi, I’m Mohamed Ashik
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Kotlin, Python
 - 💞️ I’m looking to collaborate on ...
